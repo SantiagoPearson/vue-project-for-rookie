@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ajv": "^6.9.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "better-scroll": "^1.15.2",
     "date-fns": "^2.9.0",
     "git": "^0.1.5",
